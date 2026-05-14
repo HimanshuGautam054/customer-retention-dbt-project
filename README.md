@@ -152,4 +152,4 @@ Service account JSON keys and local dbt profile configurations are excluded usin
 
 Built by Himanshu Gautam
 
-Data Engineering | Analytics Engineering | BI Development
+Data Analyst | Data Engineering | Analytics Engineering | BI Development
