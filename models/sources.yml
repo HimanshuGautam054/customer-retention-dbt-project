@@ -1,0 +1,9 @@
+version: 2
+
+sources: 
+ - name: customer_retention_data
+   database: demo123-495505
+   schema: customer_retention_data
+   
+   tables:
+    - name: retention
