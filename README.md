@@ -76,7 +76,7 @@ Business-ready analytical models
 
 Located in:
 
-`![Customer Retention Dashboard](snapshots/Customer%20Retention%20Dashboard.png)`
+`![Customer Retention Dashboard](./snapshots/Customer%20Retention%20Dashboard.png)`
 
 ---
 
