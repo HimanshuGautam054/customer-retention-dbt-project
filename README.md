@@ -84,7 +84,7 @@ Located in:
 
 Located in:
 
-`snapshots/Customer Cohort Analysis Dashboard.png`
+![Customer Cohort Analysis Dashboard](./snapshots/Customer_Cohort_Analysis_Dashboard.png)
 
 ---
 
@@ -92,7 +92,7 @@ Located in:
 
 Located in:
 
-`snapshots/Customer Value & Loyalty Dashboard.png`
+![Customer Value & Loyalty Dashboard](./snapshots/Customer_Value_&_Loyalty_Dashboard.png)
 
 ---
 
